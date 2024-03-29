@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RFID
 - 💞️ I’m looking to collaborate on Embedded Linux
 - 📫 How to reach me moahmedabdelhamid340@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My graduation project (Quaderuped Robot) is called snow ".`
 
 <!---
